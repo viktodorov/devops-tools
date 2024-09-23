@@ -299,6 +299,7 @@ Monitoring & Observability Tools provide insights into the performance, availabi
 * **[Grafana](https://grafana.com/)** (Open Source & Enterprise): A leading open-source platform for monitoring and observability, allowing you to query, visualize, alert on, and understand your metrics.
 * **[Kibana](https://www.elastic.co/kibana)** (Open Source & Enterprise): A free and open user interface that lets you visualize your Elasticsearch data and navigate the Elastic Stack.
 * **[Tableau](https://www.tableau.com/)** (Enterprise): A leading data visualization and business intelligence platform that helps people see and understand their data.
+* **[Meshery](https://meshery.io/)** (Open Source): An amazing open-source platform that enables collaborative design and operation of cloud-native infrastructure. Meshery let’s you visually configure and deploy all kinds of Kubernetes-based tools.
 
 ## Internal Developer Platform Tools
 
