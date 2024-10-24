@@ -318,6 +318,7 @@ Platform engineering is becoming a core part of every organization that wants to
 * **[SoapUI](https://www.soapui.org/)** (Open Source & Enterprise): The world's leading automated testing tool for SOAP and REST APIs.
 * **[Swagger](https://swagger.io/)** (Open Source & Enterprise): A framework for API specification that includes a suite of tools for auto-generating documentation, code generation, and API testing.
 * **[HTTPie](https://github.com/httpie/cli)** (Open Source): HTTPie (pronounced aitch-tee-tee-pie) is a command-line HTTP client. Its goal is to make CLI interaction with web services as human-friendly as possible
+* **[HttpMaster](https://www.httpmaster.net)** (Free & Paid): Professional software tool for HTTP testing and debugging.
  
 ## Collaboration Tools
 
